@@ -16,3 +16,7 @@ https://raw.githubusercontents.com/kwxos/kwxos-back/main/Header-Editor/google-bi
 ```
 wget -N https://raw.githubusercontent.com/CandyLion/-sh/main/VPSroot/root.sh && bash root.sh
 ```
+### 🎉 wsl.ssh.auto.start 
+```
+wget -N https://raw.githubusercontent.com/CandyLion/-sh/main/wslsshautostart.sh && bash wslsshautostart.sh
+```
